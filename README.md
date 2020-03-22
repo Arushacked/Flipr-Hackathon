@@ -1,2 +1,2 @@
 # Machine-Learning
-Flipr Hackathon codes
+Hackathon codes
